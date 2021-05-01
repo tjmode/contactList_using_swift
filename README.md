@@ -15,3 +15,9 @@
 - vIew mode to view the contact details which cell is selected
 - Edit mode to update the contact list selected
 - Can also Delete the selected contact.
+
+**language used**
+- Swift
+- core data
+
+**Used MVVM design pattern **
